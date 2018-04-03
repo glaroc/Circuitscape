@@ -12,7 +12,7 @@ setup(
     url = 'http://www.circuitscape.org/',
     license = 'LICENSE.txt',
     description = 'Circuitscape borrows algorithms from electronic circuit theory to predict patterns of movement, gene flow, and genetic differentiation among plant and animal populations in heterogeneous landscapes.',
-    long_description = open('README.txt').read(),
+    long_description = '',
     install_requires=[
         'numpy >= 1.6.2', 
         'scipy >= 0.11.0', 
